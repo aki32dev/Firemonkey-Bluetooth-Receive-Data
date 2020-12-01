@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/01 09:48:21.095,=D:\Software\RAD Studio\PROJECTS\Unit1.pas</Transaction>
+    <Transaction>2020/12/01 10:00:28.400,D:\Software\RAD Studio\PROJECTS\Receive Data\UnitReceiveData.fmx=D:\Software\RAD Studio\PROJECTS\Unit1.fmx</Transaction>
+    <Transaction>2020/12/01 10:00:28.400,D:\Software\RAD Studio\PROJECTS\Receive Data\UnitReceiveData.pas=D:\Software\RAD Studio\PROJECTS\Unit1.pas</Transaction>
+    <Transaction>2020/12/01 10:00:37.541,D:\Software\RAD Studio\PROJECTS\Receive Data\ProjectReceiveData.dproj=D:\Software\RAD Studio\PROJECTS\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="127.0.0.1:62001"/>
+  </ActiveMobileDevice>
+</BorlandProject>
